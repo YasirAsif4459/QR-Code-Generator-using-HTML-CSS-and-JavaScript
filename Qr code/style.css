@@ -1,0 +1,23 @@
+.contain{
+    height: 300px;
+    width: 200px;
+    background-color: rgb(26, 4, 77);
+    text-align: center;
+    padding: 50px 30px 0px 30px;
+    color: white;
+    border-radius: 15px;
+    position: absolute;
+    top:10%;
+    left:40%;
+}
+#text{
+    padding: 9px;
+    width: 90%;
+}
+#btn{
+    color: wheat;
+    font-size: 16px;
+    background-color: brown;
+    border: none;
+    padding: 8.5px;
+}
