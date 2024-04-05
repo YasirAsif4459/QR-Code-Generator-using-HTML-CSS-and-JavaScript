@@ -20,4 +20,13 @@
     background-color: brown;
     border: none;
     padding: 8.5px;
+    top:10px;
+    position: relative;
+}
+#qrimg{
+    padding: 20px;
+    width: 130px;
+    position: relative;
+    left: 9%;
+    right: auto;
 }
