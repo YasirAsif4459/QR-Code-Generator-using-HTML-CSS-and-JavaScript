@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>QR Code Generator</title>
-</head>
 <body>
     <h1>QR Code Generator</h1>
     <p>This is a simple QR Code generator implemented using HTML, CSS, and JavaScript.</p>
